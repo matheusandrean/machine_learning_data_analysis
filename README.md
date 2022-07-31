@@ -1,5 +1,6 @@
 <h1 align="center">Olá! 👋, Eu sou Matheus Marcondes</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados.</h3>
+<h3 align="center">Neste portifólio estarão todos projetos e estudos relacionados à Ciência de Dados.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
