@@ -19,4 +19,4 @@ e sua importância para as tomadas de decisões e negócios.
 Como estudante e amante dos Dados, que este seja o primeiro de muitos, e que em breve eu possa estar aplicando-os em casos reais.
 
 
-https://thecleverprogrammer.com/2022/06/07/online-food-order-prediction-with-machine-learning/
+Projeto Original: https://thecleverprogrammer.com/2022/06/07/online-food-order-prediction-with-machine-learning/
